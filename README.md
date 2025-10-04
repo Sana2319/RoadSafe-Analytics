@@ -2,21 +2,21 @@
 
 ## 📖 Table of Contents
 
-* [Project Overview](#project-overview)
-* [Purpose](#purpose)
-* [Features](#features)
-* [Technology Stack](#technology-stack)
-* [Project Structure](#project-structure)
-* [Installation & Setup](#installation--setup)
-* [Usage Guide](#usage-guide)
-* [Analysis Components](#analysis-components)
-* [Key Findings](#key-findings)
-* [Data Processing](#data-processing)
-* [Contributing](#contributing)
-* [Known Limitations](#known-limitations)
-* [License](#license)
-* [Team](#team)
-* [Acknowledgements](#acknowledgements)
+## 📖 Table of Contents
+- [Project Overview](#project-overview)
+- [Purpose](#purpose)
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Installation & Setup](#installation--setup)
+- [Usage Guide](#usage-guide)
+- [Analysis Components](#analysis-components)
+- [Key Findings](#key-findings)
+- [Data Processing](#data-processing)
+- [Contributing](#contributing)
+- [Known Limitations](#known-limitations)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
 
 ---
 
