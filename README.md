@@ -25,7 +25,7 @@ By leveraging data-driven insights, this project aims to support traffic safety 
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 * Identify **key patterns and risk factors** contributing to road accidents.
 * Support **data-driven decision-making** in traffic management and safety initiatives.
@@ -34,9 +34,9 @@ By leveraging data-driven insights, this project aims to support traffic safety 
 
 ---
 
-## ⚙️ Features
+## Features
 
-### 🔍 Core Analytical Components
+### Core Analytical Components
 
 * **Univariate Analysis:** Explore the distribution of key variables (e.g., severity, time, weather).
 * **Bivariate Analysis:** Study relationships between accident factors.
@@ -44,7 +44,7 @@ By leveraging data-driven insights, this project aims to support traffic safety 
 * **Geospatial Mapping:** Identify high-risk regions and accident hotspots.
 * **Temporal Insights:** Analyze patterns across days, months, and seasons.
 
-### 📊 Visualization Capabilities
+### Visualization Capabilities
 
 * Interactive heatmaps
 * Geographic accident plotting
@@ -54,14 +54,14 @@ By leveraging data-driven insights, this project aims to support traffic safety 
   
 ---
 
-## 🧰 Technology Stack
+## Technology Stack
 
-### 🐍 Core Technologies
+### Core Technologies
 
 * **Python 3.x**
 * **Jupyter Notebook**
 
-### 🧩 Key Libraries
+### Key Libraries
 
 | Category            | Libraries                         |
 | ------------------- | --------------------------------- |
@@ -72,7 +72,7 @@ By leveraging data-driven insights, this project aims to support traffic safety 
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository**
 
@@ -92,7 +92,7 @@ By leveraging data-driven insights, this project aims to support traffic safety 
 
 ---
 
-## 🚀 Usage Guide
+## Usage Guide
 
 * Start with the **EDA notebook** to understand data composition and quality.
 * Progress through **univariate → bivariate → multivariate → geospatial** notebooks.
@@ -101,7 +101,7 @@ By leveraging data-driven insights, this project aims to support traffic safety 
 
 ---
 
-## 🧩 Analysis Components
+## Analysis Components
 
 | Component                 | Description                                                      |
 | ------------------------- | ---------------------------------------------------------------- |
@@ -114,27 +114,27 @@ By leveraging data-driven insights, this project aims to support traffic safety 
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
-### 🌦️ Weather Impact
+### Weather Impact
 
 * Accidents increase significantly in **rainy, foggy, and snowy** conditions.
 * **Poor visibility** correlates strongly with higher severity levels.
 * **Clear weather** sees more frequent accidents but with lower severity.
 
-### 🏙️ Infrastructure Influence
+### Infrastructure Influence
 
 * **Traffic signals, crossings, and urban intersections** contribute heavily to accident density.
 * **Urban clusters** show more frequent but less severe accidents compared to rural zones.
 
-### ⏰ Temporal Patterns
+### Temporal Patterns
 
 * Peak hours correspond to **morning and evening rush times**.
 * **Seasonal variations** show increased incidents during winter and rainy months.
 
 ---
 
-## 🧹 Data Processing
+## Data Processing
 
 * Removal of **duplicates** and handling **missing values**.
 * Conversion of timestamps into **date–time features** (hour, weekday, season).
@@ -143,7 +143,7 @@ By leveraging data-driven insights, this project aims to support traffic safety 
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are always welcome!
 To contribute:
@@ -157,7 +157,7 @@ Please ensure code quality, clear commit messages, and proper testing.
 
 ---
 
-## ⚠️ Known Limitations
+## Known Limitations
 
 * Dataset may not include every accident type or region.
 * Some features contain **incomplete or inconsistent values**.
@@ -165,14 +165,14 @@ Please ensure code quality, clear commit messages, and proper testing.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License** — feel free to use and modify with attribution.
 See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 * Dataset: [US Accidents Dataset (Kaggle)](https://www.kaggle.com/sobhanmoosavi/us-accidents)
 * Libraries: Python, Pandas, NumPy, Seaborn, Matplotlib, GeoPandas
