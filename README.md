@@ -2,6 +2,8 @@
 
 ## 📖 Table of Contents
 
+# 🚗 US Road Accidents Analysis (2016–2023)
+
 ## 📖 Table of Contents
 - [Project Overview](#project-overview)
 - [Purpose](#purpose)
@@ -16,9 +18,6 @@
 - [Known Limitations](#known-limitations)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
-
-
----
 
 ## 🧭 Project Overview
 
