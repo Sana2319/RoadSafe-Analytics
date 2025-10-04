@@ -2,9 +2,6 @@
 
 ## 📖 Table of Contents
 
-# 🚗 US Road Accidents Analysis (2016–2023)
-
-## 📖 Table of Contents
 - [Project Overview](#project-overview)
 - [Purpose](#purpose)
 - [Features](#features)
@@ -19,7 +16,7 @@
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
-## 🧭 Project Overview
+## Project Overview
 
 This project presents a comprehensive data science analysis of **US Road Accident Data (2016–2023)** using more than **7 million accident records**.
 The goal is to uncover hidden trends, evaluate risk factors, and visualize how different elements such as weather, infrastructure, and time influence accident severity.
