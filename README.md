@@ -182,7 +182,3 @@ See the [LICENSE](LICENSE) file for details.
 * Libraries: Python, Pandas, NumPy, Seaborn, Matplotlib, GeoPandas
 * Inspiration: Real-world data-driven policymaking for road safety
 
----
-
-Would you like me to **add badges (for Python version, license, dataset, or contributions)** and make it look like a professional **GitHub-style visual README** with emojis and color tags (e.g., shields.io badges)?
-It’ll give it a polished open-source project look.
